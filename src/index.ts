@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/category', (req, res) => {
-  res.send('API test');
+  res.send('API testesa');
 });
 
 app.get('/db', async (req, res) => {
